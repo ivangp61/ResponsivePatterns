@@ -79,7 +79,10 @@
     <Content Include="images\range-3.png" />
     <Content Include="images\range-4.png" />
     <Content Include="images\range-5.png" />
+    <Content Include="images\site-logo-white.png" />
     <Content Include="images\snowboarder.jpg" />
+    <Content Include="Scripts\cbpAnimatedHeader.js" />
+    <Content Include="Scripts\classie.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
